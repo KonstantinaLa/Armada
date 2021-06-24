@@ -1,4 +1,6 @@
-﻿using Armada.Models;
+﻿using System.Data.Entity;
+using System.Security.Cryptography.X509Certificates;
+using Armada.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 
 namespace Armada.DAL
@@ -14,5 +16,9 @@ namespace Armada.DAL
         {
             return new ApplicationDbContext();
         }
+
+        public DbSet<Emperor> Emperors { get; set; }
+        public DbSet<Empire> Empires { get; set; }
+
     }
 }
