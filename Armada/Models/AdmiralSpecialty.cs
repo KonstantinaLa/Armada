@@ -3,9 +3,14 @@ namespace Armada.Models
 {
     public enum AdmiralSpeciality
     {
-        Reconnaissance,
-        OrbitalBombardment
-
+        Computing,
+        Propulsion,
+        MilitaryTheory,
+        Psionics,
+        Scout,
+        VoidHunter,
+        ArmyLogistics
+    
 
     }
 }

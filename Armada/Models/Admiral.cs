@@ -14,12 +14,9 @@ namespace Armada.Models
         public string Photo { get; set; }
         public string Description { get; set; }
         public AdmiralSpeciality Speciality { get; set; }
-        //public EmperorSpecies Species { get; set; }
-
+        public EmperorSpecies Species { get; set; }
         public virtual ICollection<Mission> Missions { get; set; }
-
-        //public Empire Empire { get; set; }
-        
+        public Empire Empire { get; set; }
         public Crew Crew { get; set; }
 
     }

@@ -14,20 +14,7 @@ namespace Armada.Models
         public int Age { get; set; }
         public string Photo { get; set; }
         public string Description { get; set; }
-        public enum Species
-        {
-            Human,
-            Engi,
-            Zoltan,
-            Mantis,
-            Blorg,
-            Scyldari,
-            Vheln,
-            Lok,
-            Pasharti,
-            Orbis,
-            Gecko
-        }
+        public EmperorSpecies Species {get; set;}
 
         //Navigation Properties
         

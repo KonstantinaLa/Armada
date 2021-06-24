@@ -17,6 +17,6 @@
         ProtoPlanet,
         PuffyPlanet,
         SilicatePlanet,
-        TerrestrialPlanet,
+        TerrestrialPlanet
     }
 }
