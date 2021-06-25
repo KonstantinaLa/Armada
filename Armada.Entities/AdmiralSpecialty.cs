@@ -9,7 +9,5 @@
         Scout,
         VoidHunter,
         ArmyLogistics
-    
-
     }
 }

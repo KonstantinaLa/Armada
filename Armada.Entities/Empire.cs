@@ -11,9 +11,8 @@ namespace Armada.Entities
         public string Photo { get; set; }
         public string Description { get; set; }
 
-        //Navigation Properties
 
-        public int? EmperorId { get; set; }
+        //Navigation Properties
         public virtual Emperor Emperor { get; set; }
         public virtual ICollection<Admiral> Admirals { get; set; }
     }
