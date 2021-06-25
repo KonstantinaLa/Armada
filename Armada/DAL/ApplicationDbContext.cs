@@ -19,6 +19,9 @@ namespace Armada.DAL
 
         public DbSet<Emperor> Emperors { get; set; }
         public DbSet<Empire> Empires { get; set; }
+         
+        public DbSet<Admiral> Admirals { get; set; }
+        public DbSet<Crew> Crews { get; set; }
 
     }
 }

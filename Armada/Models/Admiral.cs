@@ -19,5 +19,9 @@ namespace Armada.Models
         public Empire Empire { get; set; }
         public Crew Crew { get; set; }
 
+        public Admiral()
+        {
+            Missions = new HashSet<Mission>();
+        }
     }
 }

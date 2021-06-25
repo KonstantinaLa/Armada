@@ -10,7 +10,6 @@ namespace Armada.Models
         public int CrewId { get; set; }
         public int Number { get; set; }
         public string Specialty { get; set; }
-
         public Admiral Admiral { get; set; }
 
     }

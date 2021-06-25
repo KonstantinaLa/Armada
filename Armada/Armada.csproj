@@ -198,7 +198,11 @@
     <Compile Include="Models\AccountViewModels\ForgotPasswordViewModel.cs" />
     <Compile Include="Models\AccountViewModels\IdentityModels.cs" />
     <Compile Include="Models\AccountViewModels\LoginViewModel.cs" />
+    <Compile Include="Models\Admiral.cs" />
+    <Compile Include="Models\AdmiralSpecialty.cs" />
+    <Compile Include="Models\Crew.cs" />
     <Compile Include="Models\Emperor.cs" />
+    <Compile Include="Models\EmperorSpecies.cs" />
     <Compile Include="Models\Empire.cs" />
     <Compile Include="Models\ManageViewModels\AddPhoneNumberViewModel.cs" />
     <Compile Include="Models\ManageViewModels\ChangePasswordViewModel.cs" />
