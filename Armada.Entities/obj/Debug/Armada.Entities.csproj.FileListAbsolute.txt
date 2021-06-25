@@ -1,0 +1,15 @@
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\Armada.Entities.dll.config
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\Armada.Entities.dll
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\Armada.Entities.pdb
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\obj\Debug\Armada.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\obj\Debug\Armada.Entities.csproj.CopyComplete
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\obj\Debug\Armada.Entities.dll
+C:\Users\Κώστας\source\repos\Armada\Armada.Entities\obj\Debug\Armada.Entities.pdb

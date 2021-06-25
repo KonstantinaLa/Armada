@@ -1,17 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
-using System.Web;
-using Armada.DAL;
+using Armada.Database;
+using Armada.Entities;
+using Armada.Models;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using Armada.Models;
 
 namespace Armada
 {
