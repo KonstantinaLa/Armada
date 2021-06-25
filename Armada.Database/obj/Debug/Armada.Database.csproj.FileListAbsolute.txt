@@ -1,8 +1,8 @@
-C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\EntityFramework.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\Armada.Database.dll.config
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\Armada.Database.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\Armada.Database.pdb
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\Armada.Entities.dll
+C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\EntityFramework.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
@@ -17,3 +17,5 @@ C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Datab
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.csproj.CopyComplete
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.pdb
+C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.Migrations.Test.resources
+C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.csproj.GenerateResource.cache

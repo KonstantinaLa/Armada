@@ -4,7 +4,6 @@ namespace Armada.Entities
 {
     public class Emperor
     {
-        [ForeignKey("Empire")]
         public int EmperorId { get; set; }
         public string Name { get; set; }
         public int Age { get; set; }
@@ -12,8 +11,8 @@ namespace Armada.Entities
         public string Description { get; set; }
         public EmperorSpecies Species {get; set;}
 
+
         //Navigation Properties
-        
         public virtual Empire Empire { get; set; }
     }
 }

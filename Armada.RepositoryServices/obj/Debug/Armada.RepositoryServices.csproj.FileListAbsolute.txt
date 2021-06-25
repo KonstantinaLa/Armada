@@ -1,5 +1,6 @@
 C:\Users\Κώστας\source\repos\Armada\Armada.RepositoryServices\bin\Debug\Armada.RepositoryServices.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.RepositoryServices\bin\Debug\Armada.RepositoryServices.pdb
+C:\Users\Κώστας\source\repos\Armada\Armada.RepositoryServices\obj\Debug\Armada.RepositoryServices.csproj.AssemblyReference.cache
 C:\Users\Κώστας\source\repos\Armada\Armada.RepositoryServices\obj\Debug\Armada.RepositoryServices.csproj.CoreCompileInputs.cache
 C:\Users\Κώστας\source\repos\Armada\Armada.RepositoryServices\obj\Debug\Armada.RepositoryServices.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.RepositoryServices\obj\Debug\Armada.RepositoryServices.pdb

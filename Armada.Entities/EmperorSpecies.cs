@@ -1,6 +1,5 @@
 ﻿namespace Armada.Entities
 {
-    
     public enum EmperorSpecies
     {
         Human,
@@ -15,5 +14,4 @@
         Orbis,
         Gecko
     }
-    
 }

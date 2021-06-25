@@ -9,6 +9,7 @@ namespace Armada.Entities
         public string StarSystem { get; set; }
         public PlanetType Type { get; set; }
 
+
         //Navigation Properties
         public virtual ICollection<Mission> Missions { get; set; }
 

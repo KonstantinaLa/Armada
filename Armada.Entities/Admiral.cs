@@ -14,15 +14,16 @@ namespace Armada.Entities
         public AdmiralSpecialty Specialty { get; set; }
         public EmperorSpecies Species { get; set; }
 
+
         //Navigation Properties
-        public virtual ICollection<Mission> Missions { get; set; }
+        public virtual ICollection<AdmiralMission> AdmiralMissions { get; set; }
         public virtual Empire Empire { get; set; }
-        public int CrewId { get; set; }
+        public int EmpireId { get; set; }
         public virtual Crew Crew { get; set; }
 
         public Admiral()
         {
-            Missions = new HashSet<Mission>();
+            AdmiralMissions = new HashSet<AdmiralMission>();
         }
     }
 }

@@ -58,6 +58,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationDbContext.cs" />
+    <Compile Include="EntitiesConfiguration\AdmiralConfig.cs" />
+    <Compile Include="EntitiesConfiguration\AdmiralMissionConfig.cs" />
+    <Compile Include="EntitiesConfiguration\CrewConfig.cs" />
+    <Compile Include="EntitiesConfiguration\EmperorConfig.cs" />
+    <Compile Include="EntitiesConfiguration\EmpireConfig.cs" />
+    <Compile Include="EntitiesConfiguration\MissionConfig.cs" />
+    <Compile Include="EntitiesConfiguration\PlanetConfig.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
