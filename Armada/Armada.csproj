@@ -192,18 +192,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels\ForgotViewModel.cs" />
-    <Compile Include="DAL\ApplicationDbContext.cs" />
     <Compile Include="Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs" />
     <Compile Include="Models\AccountViewModels\ExternalLoginListViewModel.cs" />
     <Compile Include="Models\AccountViewModels\ForgotPasswordViewModel.cs" />
-    <Compile Include="Models\AccountViewModels\IdentityModels.cs" />
     <Compile Include="Models\AccountViewModels\LoginViewModel.cs" />
-    <Compile Include="Models\Admiral.cs" />
-    <Compile Include="Models\AdmiralSpecialty.cs" />
-    <Compile Include="Models\Crew.cs" />
-    <Compile Include="Models\Emperor.cs" />
-    <Compile Include="Models\EmperorSpecies.cs" />
-    <Compile Include="Models\Empire.cs" />
     <Compile Include="Models\ManageViewModels\AddPhoneNumberViewModel.cs" />
     <Compile Include="Models\ManageViewModels\ChangePasswordViewModel.cs" />
     <Compile Include="Models\ManageViewModels\FactorViewModel.cs" />
@@ -216,10 +208,6 @@
     <Compile Include="Models\AccountViewModels\VerifyCodeViewModel.cs" />
     <Compile Include="Models\ManageViewModels\SetPasswordViewModel.cs" />
     <Compile Include="Models\ManageViewModels\VerifyPhoneNumberViewModel.cs" />
-    <Compile Include="Models\Mission.cs" />
-    <Compile Include="Models\Planet.cs" />
-    <Compile Include="Models\PlanetType.cs" />
-    <Compile Include="Models\Status.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -512,7 +500,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="DAL\Configurations\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
   <ItemGroup>
@@ -525,6 +512,16 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Armada.Database\Armada.Database.csproj">
+      <Project>{D16055BA-3D95-4427-AFE1-391FC0AF0C08}</Project>
+      <Name>Armada.Database</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Armada.Entities\Armada.Entities.csproj">
+      <Project>{29ADDE76-F838-4C40-A3CD-2FB2C73D5810}</Project>
+      <Name>Armada.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
