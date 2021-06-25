@@ -376,3 +376,9 @@ C:\Users\Κώστας\source\repos\Armada\Armada\obj\Debug\Armada.csproj.CoreCom
 C:\Users\Κώστας\source\repos\Armada\Armada\obj\Debug\Armada.csproj.CopyComplete
 C:\Users\Κώστας\source\repos\Armada\Armada\obj\Debug\Armada.dll
 C:\Users\Κώστας\source\repos\Armada\Armada\obj\Debug\Armada.pdb
+C:\Users\angel\source\repos\Armada\Armada\bin\Armada.Database.dll
+C:\Users\angel\source\repos\Armada\Armada\bin\Armada.Entities.dll
+C:\Users\angel\source\repos\Armada\Armada\bin\Armada.Database.pdb
+C:\Users\angel\source\repos\Armada\Armada\bin\Armada.Database.dll.config
+C:\Users\angel\source\repos\Armada\Armada\bin\Armada.Entities.pdb
+C:\Users\angel\source\repos\Armada\Armada\bin\Armada.Entities.dll.config
