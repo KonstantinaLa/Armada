@@ -5,7 +5,6 @@ namespace Armada.Entities
 {
     public class Empire
     {
-        [ForeignKey("Admiral")]
         public int EmpireId { get; set; }
         public string Name { get; set; }
         public string Trait { get; set; }

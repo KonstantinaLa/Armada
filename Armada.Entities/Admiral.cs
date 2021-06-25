@@ -17,8 +17,6 @@ namespace Armada.Entities
 
         //Navigation Properties
         
-        public virtual ICollection<Mission> Missions { get; set; }
-        public int EmpireId { get; set; }
         public virtual ICollection<AdmiralMission> AdmiralMissions { get; set; }
         public virtual Empire Empire { get; set; }
         public int EmpireId { get; set; }

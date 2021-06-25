@@ -9,8 +9,6 @@ namespace Armada.Entities
         public string Type { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
-        public Status Status { get; set; }
-
 
         //Navigation Properties
         public virtual ICollection<AdmiralMission> AdmiralMissions { get; set; }
