@@ -17,6 +17,7 @@ C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Datab
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.csproj.CopyComplete
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.dll
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.pdb
+<<<<<<< Updated upstream
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.Migrations.Test.resources
 C:\Users\Κώστας\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.csproj.GenerateResource.cache
 C:\Users\angel\source\repos\Armada\Armada.Database\bin\Debug\Armada.Database.dll.config
@@ -38,3 +39,5 @@ C:\Users\angel\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.csp
 C:\Users\angel\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.csproj.CopyComplete
 C:\Users\angel\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.dll
 C:\Users\angel\source\repos\Armada\Armada.Database\obj\Debug\Armada.Database.pdb
+=======
+>>>>>>> Stashed changes
